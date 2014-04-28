@@ -2,11 +2,11 @@ YourMenu
 ========
 
 This is the SourceCode of the Bukkit plugin YourMenu
-mkdir ~/YourMenu
+$ mkdir ~/YourMenu
 
-cd ~/YourMenu
+$ cd ~/YourMenu
 
-git init
+$ git init
 
 
-touch README
+$ touch README
