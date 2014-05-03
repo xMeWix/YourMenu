@@ -1,0 +1,16 @@
+name: YourMenu
+version: 1.5
+description: A Menucreator
+author: Battlecraftman
+main: main_Menu.main
+
+commands: 
+  menu:
+    description: open menu
+    usage: /<command>
+  menuitem:
+    description: get a menu item
+    usage: /<command>
+  ym:
+    description: menu edit command
+    usage: /<command>
