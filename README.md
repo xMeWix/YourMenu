@@ -1,6 +1,4 @@
 YourMenu
 ========
 
-This is the SourceCode of the Bukkit plugin YourMenu
-
-"Hello World!"
+This is the Source Code of the Bukkit plugin YourMenu.
